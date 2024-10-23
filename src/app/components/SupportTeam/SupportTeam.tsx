@@ -14,7 +14,7 @@ const SupportTeam = () => {
                     saepe accusantium repellendus blanditiis commodi exercitationem provident, temporibus laudantium? Accusamus.
                 </p>
                 <div className='flex items-center space-x-6 mt-[2rem] '>
-                    <Image src="/images/icon1.webp" alt='icon1' width={60} height={60}/>
+                    <Image src="/images/image-2.webp" alt='icon1' width={60} height={60}/>
                     <div>
                         <h1 className='text-[18px] text-gray-900 font-[500] mb-[0.5rem]'>Email client support</h1>
 
@@ -24,7 +24,7 @@ const SupportTeam = () => {
                     </div>
                 </div>
                 <div className='flex items-center space-x-6 mt-[2rem] '>
-                    <Image src="/images/icon2.webp" alt='icon2' width={60} height={60}/>
+                    <Image src="/images/image-3.webp" alt='icon2' width={60} height={60}/>
                     <div>
                         <h1 className='text-[18px] text-gray-900 font-[500] mb-[0.5rem]'>Live ticket support</h1>
 
@@ -35,7 +35,7 @@ const SupportTeam = () => {
                 </div>
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center">
-                <Image src="/images/supportteam.webp" alt='supportteam' width={700} height={700}/>
+                <Image src="/images/image-8.webp" alt='supportteam' width={700} height={700}/>
             </div>
         </div>
     </div>

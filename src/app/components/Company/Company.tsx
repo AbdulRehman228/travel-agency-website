@@ -14,7 +14,7 @@ const Company = () => {
         </p>
         <p className='text-center mt-[1.7rem] font-[500] cursor-pointer text-blue-600'>Explore Details </p>
         <div className='mt-[2rem] text-center w-[80%] mx-auto'>
-            <Image src="/images/customer.webp" alt='customer' width={10000} height={500}/>
+            <Image src="/images/image-9.webp" alt='customer' width={10000} height={500}/>
         </div>
     </div>
   )

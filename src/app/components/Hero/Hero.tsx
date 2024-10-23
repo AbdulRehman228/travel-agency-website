@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
         </div>
         <div data-aos="fade-left" data-aos-delay="600" className="col-span-3 hidden sm:block lg:pl-10"> {/* Added left padding */}
-          <Image src="/images/travel-1.png" alt="travel" width={500} height={500}  />
+          <Image src="/images/image-1.png" alt="travel" width={500} height={500}  />
         </div>
       </div>
     </div>

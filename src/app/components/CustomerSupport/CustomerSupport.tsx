@@ -7,7 +7,7 @@ const CustomerSupport = () => {
     <div className="pt-[5rem] pb-[3rem] flex">
         <div className="w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-[4rem] items-center">
             <div data-aos="fade-right" data-aos-anchor-placement="top-center" className="order-2 lg:order-1">
-                <Image src="/images/support.webp" alt="support" width={600} height={600}/>
+                <Image src="/images/image-7.webp" alt="support" width={600} height={600}/>
             </div>
             <div className="order-1 lg:order-2">
                 <h1 data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="200" className="text-[20px] md:text-[25px] text-[#02073e] font-bold leading-[2rem] md:leading-[3rem]">
